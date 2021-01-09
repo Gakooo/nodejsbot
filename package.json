@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ciphers": "^1.0.0",
+    "cloudscraper": "^4.6.0",
+    "minimist": "^1.2.5"
+  }
+}
